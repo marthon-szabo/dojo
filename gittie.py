@@ -15,9 +15,13 @@ def joke():
     time.sleep(1)
     print('To get to the other side.')
 
+
+def shout(something):
+    print(something.upper())
+
+shout("hello, hello, hello!")
 introduce()
 joke()
-
 introduce()
 
 def add(a,b):
