@@ -2,7 +2,7 @@ import time
 
 
 def introduce():
-    print("Hello, I'm Gittie!")
+    print("Hello, I'm Marci!")
 
 
 def joke():
