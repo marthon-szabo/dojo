@@ -2,7 +2,7 @@ import time
 
 
 def introduce():
-    print("Hello, I'm Gittie!")
+    print("Heya, friend! I'm Gittie!")
 
 
 def joke():
@@ -10,7 +10,7 @@ def joke():
     time.sleep(1)
     print("...")
     time.sleep(1)
-    print('To get to the other side')
+    print('To get to the other side.')
 
 introduce()
 joke()
